@@ -8,6 +8,7 @@
 stages:
 - test
 - build
+- deploy
 
 build-job:
   stage: build
